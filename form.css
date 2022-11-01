@@ -1,0 +1,29 @@
+form{
+	margin: 40px 0;
+}
+form label{
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+.input-padrao{
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+}
+.enviar{
+	width: 140px;
+	padding: 15px 0;
+	background: pink;
+	color: white;
+	font-weight: bold;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.enviar:hover{
+	background: pink;
+	transform: scale(1.2);
+
+}
